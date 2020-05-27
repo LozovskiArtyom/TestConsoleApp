@@ -147,6 +147,7 @@ namespace TestConsoleApp
                     Console.Write($" {employees[s].name}, ({Math.Round(days[i].emp[s], 2)} hours), ");
                 Console.WriteLine();
             }
+            Console.ReadLine();
         }
     }
 }

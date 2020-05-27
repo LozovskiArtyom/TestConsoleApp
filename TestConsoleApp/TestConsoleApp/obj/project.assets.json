@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artik_000\\source\\repos\\TestConsoleApp\\TestConsoleApp\\TestConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\artik_000\\source\\TestConsoleApp\\TestConsoleApp\\TestConsoleApp\\TestConsoleApp.csproj",
       "projectName": "TestConsoleApp",
-      "projectPath": "C:\\Users\\artik_000\\source\\repos\\TestConsoleApp\\TestConsoleApp\\TestConsoleApp.csproj",
+      "projectPath": "C:\\Users\\artik_000\\source\\TestConsoleApp\\TestConsoleApp\\TestConsoleApp\\TestConsoleApp.csproj",
       "packagesPath": "C:\\Users\\artik_000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artik_000\\source\\repos\\TestConsoleApp\\TestConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\artik_000\\source\\TestConsoleApp\\TestConsoleApp\\TestConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\artik_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
